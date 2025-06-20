@@ -31,3 +31,4 @@ logs/
 MAlonzo
 output
 runtests
+.direnv
